@@ -52,10 +52,10 @@ Finaliza a compra.
 
 Equipe do Projeto
 
-Leonardo Responsabilidade:Levantamento de requisitos.
-Diogo	Responsabilidade: Desenvolvimento.
-Eduardo	Responsabilidade: Desenvolvimento.
-Thales Responsabilidade: Diagramas.
-João Gabriel Responsabilidade: Diagramas.
+Leonardo Responsabilidade:Levantamento de requisitos.<br>
+Diogo	Responsabilidade: Desenvolvimento.<br>
+Eduardo	Responsabilidade: Desenvolvimento.<br>
+Thales Responsabilidade: Diagramas.<br>
+João Gabriel Responsabilidade: Diagramas.<br>
 <h3>Planner</h3>
 https://planner.cloud.microsoft/webui/plan/RhVa8aQgKUupdXpNAwF-hGQAEmex/view/board?tid=eabe64c5-68f5-4a76-8301-9577a679e449
