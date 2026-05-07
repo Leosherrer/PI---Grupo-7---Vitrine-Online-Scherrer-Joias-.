@@ -30,7 +30,7 @@ Finalização de compras;
 Escolha entre retirada na loja ou entrega;
 Conversa entre clientes e atendentes.
 
-Categorias de Produtos
+Categorias de Produtos<br>
 O sistema contará com categorias para facilitar a navegação dos usuários:
 
 Anéis;
