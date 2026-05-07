@@ -1,11 +1,11 @@
 <h1> Projeto Vitrine Online </h1><br>
 Sobre o Projeto
 
-O sistema Vitrine Online foi desenvolvido para a empresa com o objetivo de ampliar sua presença digital e facilitar o acesso dos clientes aos produtos da loja.
+O sistema Vitrine Online vai ser desenvolvido para a empresa Scherrer Jóias com o objetivo de ampliar sua presença digital e facilitar o acesso dos clientes aos produtos da loja.
 
 A plataforma permitirá que os clientes visualizem produtos, consultem preços e descrições, conversem com atendentes e realizem compras de forma prática e intuitiva.
 
-O projeto foi desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, aplicando conceitos de Engenharia de Software, modelagem e desenvolvimento de sistemas.
+O projeto será desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, aplicando conceitos de Engenharia de Software, Algoritimos e Lógica de programação e desenvolvimento de sistemas.
 
 Objetivo do Sistema
 
