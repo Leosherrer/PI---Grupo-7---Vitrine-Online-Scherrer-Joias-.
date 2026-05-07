@@ -52,7 +52,7 @@ Finaliza a compra.
 
 Equipe do Projeto
 
-Leonardo Responsabilidade:Levantamento de requisitos.<br>
+Leonardo Responsabilidade: Levantamento de requisitos.<br>
 Diogo	Responsabilidade: Desenvolvimento.<br>
 Eduardo	Responsabilidade: Desenvolvimento.<br>
 Thales Responsabilidade: Diagramas.<br>
