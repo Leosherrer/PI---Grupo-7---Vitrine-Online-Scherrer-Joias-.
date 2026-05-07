@@ -51,6 +51,7 @@ Escolhe entrega ou retirada;
 Finaliza a compra.
 
 Equipe do Projeto
+
 Integrante	Responsabilidade
 Leonardo	Levantamento de requisitos
 Diogo	Desenvolvimento
