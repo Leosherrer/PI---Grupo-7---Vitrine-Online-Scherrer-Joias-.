@@ -16,7 +16,7 @@ Além disso, busca:
 Melhorar a experiência dos clientes;
 Organizar os produtos por categorias;
 Facilitar compras online;
-Modernizar o atendimento da empresa.
+Modernizar o atendimento da empresa;
 
 
 Funcionalidades Principais
